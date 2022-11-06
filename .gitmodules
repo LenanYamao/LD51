@@ -1,0 +1,6 @@
+[submodule "Assets/ScriptableObject-Architecture"]
+	path = Assets/ScriptableObject-Architecture
+	url = https://github.com/FluidPlay/ScriptableObject-Architecture
+[submodule "Assets/syrinj"]
+	path = Assets/syrinj
+	url = https://github.com/FluidPlay/syrinj
